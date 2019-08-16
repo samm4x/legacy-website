@@ -1,0 +1,19 @@
+/* Theme */
+
+main {
+    background: url('../../images/backgrounds/alien.gif') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 100%;
+    color: #FAFAFA;
+  }
+
+.icons-social a {
+	color: #FAFAFA;
+}
+
+.icons-social a svg path{
+	fill: #FAFAFA;
+}
