@@ -1,2 +1,2 @@
 # samm4x.github.io
-# Coming Soon!
+# samm4x.xyz
